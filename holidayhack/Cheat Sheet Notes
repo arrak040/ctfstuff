@@ -1,0 +1,28 @@
+Cheat Sheet
+
+Enumeration
+
+NMAP
+
+Enumerates directories used by popular web applications and servers.
+ nmap [target] --script http-enum
+
+nmap -sC 
+
+FIND
+
+LS
+
+Examination
+
+STRINGS
+
+FILE
+
+
+
+Exfil
+
+copy/pasta via base64
+Convert file to base64 - gzip -c [filename] | base64 --wrap=0; echo
+Convert base64 to file -

@@ -1,0 +1,37 @@
+OS X As Base OS for Pentesting
+
+Hardening
+Fresh Install with Updates
+randomize root password after last update installed
+no association with iCloud
+local login running as standard user
+local login password not used anywhere else
+
+
+
+Tooling
+
+atom / nitrogen for live script evaluation
+chef - easy local base64 encoding
+password manager - not connected to primary
+git / github account
+wireshark / pcap analysis
+MetaSploit
+Burp
+Maltego?
+TamperMonkey (Chrome Extension)
+Cookie Managing Chrome Extension
+uBlock Origin
+NMAP
+wget
+brew
+little snitch (monitor only)
+block block
+password cracker - will probably run this on other laptop
+script libraries'
+ftp servers
+web server
+netcat
+VMWare
+-Windows VM For Windows Tools
+--windows binary analysis
