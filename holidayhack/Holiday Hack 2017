@@ -22,7 +22,7 @@ Finalize OS X Build or Finalize Kali Build
 
 -Tools
 -Move to new laptop for better performance -or-
--Rebuild MAC for isolation
+-Rebuild Mac for isolation
 
 
 ProTips #SANSHolidayHack
@@ -33,3 +33,32 @@ ProTips #SANSHolidayHack
 5. GetReady!
 
 https://pen-testing.sans.org/blog/2017/11/27/understanding-and-exploiting-web-based-ldap
+Things you only hear as a CounterHack employee: "I've got whiteout on my fingers and glitter all over" --@edskoudis
+
+Struts Your Stuff by @mosesrenegade (SEC542/642 - Web App #PenTest)
+  https://www.youtube.com/watch?v=5veKn2QYib0&feature=youtu.be&t=11s
+
+Probing Options Graphic - https://pbs.twimg.com/media/DP-IEMLXkAAY7-R.jpg
+
+PowerShell Essentials - https://pen-testing.sans.org/blog/2016/05/25/sans-powershell-cheat-sheet?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+PowerShell+Cheat+Sheet&utm_campaign=SANS+Pen+Test
+
+Command Line Kung Fu - https://www.sans.org/security-resources/posters/pen-testing/pen-test-command-line-kung-fu-150?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+POSTER+Whiteboard+Command+Line&utm_campaign=SANS+Pen+Test
+
+Forensics Pocket Guide - https://pbs.twimg.com/media/DP5OxZCW0AAu3Xs.jpg
+
+Metasploit Console Basics - https://pbs.twimg.com/media/DP4wl9FWsAAIQ1f.png
+
+Rekall & Memory Forensics - https://pbs.twimg.com/media/DP17DX5UEAEV8IM.jpg
+
+Try this, after apt install fortune cowsay lolcat:
+  while true; do fortune | cowsay -f `find /usr/share/cowsay/cows/ -type f | sort -R | head -n1` | lolcat -a -s 75; sleep 2; done
+
+Interface to PowerShell from Python - https://gist.github.com/MarkBaggett/a7c10195b2626c78009bf73bcdb6db20
+
+Masscan - https://pen-testing.sans.org/blog/2017/10/25/massively-scaling-your-scanning?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Massively+Scaling+Scanning+McJunkin&utm_campaign=SANS+Pen+Test
+
+Understanding and Exploiting Web-based LDAP - https://pen-testing.sans.org/blog/2017/11/27/understanding-and-exploiting-web-based-ldap?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Understanding+Exploiting+Web+Based+IDAP&utm_campaign=SANS+Pen+Test
+
+Malware Analysis Cheat Sheets - https://digital-forensics.sans.org/blog/2017/09/13/malware-analysis-cheat-sheets?utm_medium=Social&utm_source=Twitter&utm_content=N&utm_campaign=DFIR+CheatSheet
+
+Cmdlets - https://pbs.twimg.com/media/DPzqgcKXUAEwiWR.png
